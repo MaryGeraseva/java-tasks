@@ -69,15 +69,23 @@ public class Reverse {
      * reverse string
      * provide 2 solutions
      */
-    public static String reverseString(String stringToReverse) {
-       return null;
+    public static String reverseString1(String stringToReverse) {
+        return null;
+    }
+
+    public static String reverseString2(String stringToReverse) {
+        return null;
     }
 
     /**
      * reverse int[]
      * provide 2 solutions
      */
-    public static int[] reverseArray(int[] arrayToReverse) {
+    public static int[] reverseArray1(int[] arrayToReverse) {
+        return null;
+    }
+
+    public static int[] reverseArray2(int[] arrayToReverse) {
         return null;
     }
 
@@ -85,7 +93,11 @@ public class Reverse {
      * reverse word order in sentence
      * provide 2 solutions
      */
-    public static int[] reverseWordOrder(String sentenceToRevert) {
+    public static int[] reverseWordOrder1(String sentenceToRevert) {
+        return null;
+    }
+
+    public static int[] reverseWordOrder2(String sentenceToRevert) {
         return null;
     }
 }
